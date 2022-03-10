@@ -25,9 +25,9 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
-    background-color: black;
+.sav-style {
+    color: black;
+    background-color: pink;
     padding: 3px;
 }
 
